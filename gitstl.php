@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: STL Viewer ShortCode
-Plugin URI: https://github.com/skjain2/
+Plugin URI: https://github.com/skjain2/WP-STL-Shortcodes
 Description: Adds shortcode to you to embed Github and SketchFab STL viewers into Wordpress posts and pages. Copy to your plugins directory and activate manually, for now.
 Version: 0.1
 Author: Shashi Jain
